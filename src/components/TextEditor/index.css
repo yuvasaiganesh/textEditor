@@ -1,0 +1,104 @@
+.mainSection {
+  background-color: #25262c;
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  height: 100vh;
+}
+
+.subSection {
+  background-color: black;
+  height: 70vh;
+  width: 80vw;
+  display: flex;
+  justify-content: space-around;
+
+  align-items: center;
+}
+
+.textSection {
+  background-color: #25262c;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  height: 50vh;
+  width: 40vw;
+}
+hr {
+  width: 60vw;
+}
+
+.addBold {
+  font-weight: bold;
+}
+.addItalic {
+  font-style: italic;
+}
+.addUnder {
+  text-decoration: underline;
+}
+.image {
+  height: 50vh;
+  width: 40vw;
+}
+
+.input {
+  background-color: #25262c;
+  height: 90vh;
+  color: #f1f5f9;
+  font-size: 20px;
+  outline: none;
+  border-bottom: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+
+.styleSection {
+  height: 5vh;
+  padding: 10px;
+  display: flex;
+}
+.button1 {
+  background-color: #25262c;
+  color: #f1f5f9;
+  margin: 10px;
+  border: 0px;
+}
+
+.button2 {
+  text-decoration: underline;
+  background-color: #25262c;
+  color: #f1f5f9;
+  margin: 10px;
+  border: 0px;
+}
+
+.addColor1 {
+  background-color: #25262c;
+  color: #faff00;
+  margin: 10px;
+  border: 0px;
+}
+
+.addColor2 {
+  background-color: #25262c;
+  color: #faff00;
+  margin: 10px;
+  border: 0px;
+
+  text-decoration: underline;
+}
+
+li {
+  list-style-type: none;
+}
+
+h1 {
+  color: white;
+}
+.imageSection {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
